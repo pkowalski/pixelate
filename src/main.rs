@@ -113,7 +113,7 @@ fn main() {
     let args: Vec<String> = env::args().collect();
     let mut default_image = "dog.jpg";
     let mut output_image = "out.jpg";
-    let ratio = 25;
+    let ratio = 10;
 
     if args.len() > 1 {
         default_image = &args[1];
