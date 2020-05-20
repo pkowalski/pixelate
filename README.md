@@ -12,7 +12,7 @@ If no input is set the default dog.jpg will be used. Default output file will be
 cargo run dog.jpg out.jpg
 ```
 # Input
-![Input image](./cat2.jpg)
+![Input image](./dog.jpg)
 
 # Output
 ![Output image](./out.jpg)
